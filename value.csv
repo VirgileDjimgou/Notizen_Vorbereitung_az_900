@@ -1,0 +1,320 @@
+JToken;JToken._annotations;JToken.Type;JToken.HasValues;JToken.Path
+"""_type"": ""SearchResponse""";Newtonsoft.Json.Linq.JToken+LineInfoAnnotation;Property;True;_type
+"""queryContext"": {
+  ""originalQuery"": ""TextBox""
+}";Newtonsoft.Json.Linq.JToken+LineInfoAnnotation;Property;True;queryContext
+"""webPages"": {
+  ""webSearchUrl"": ""https://www.bing.com/search?q=TextBox"",
+  ""totalEstimatedMatches"": 797000000,
+  ""value"": [
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.0"",
+      ""name"": ""Text box - Windows apps | Microsoft Learn"",
+      ""url"": ""https://learn.microsoft.com/en-us/windows/apps/design/controls/text-box"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://learn.microsoft.com/en-us/windows/apps/design/controls/text-box"",
+      ""snippet"": ""The TextBox control lets a user type text into an app. It's typically used to capture a single line of text, but can be configured to capture multiple lines of text. The text displays on the screen in a simple, uniform, plaintext format. TextBox has a number of features that can simplify text entry. It comes with a familiar, built-in context menu with support for copying and pasting text. The \""clear all\"" button lets a user quickly delete all text that has been entered. It also has ..."",
+      ""dateLastCrawled"": ""2022-11-27T10:23:00Z"",
+      ""searchTags"": [
+        {
+          ""name"": ""search.product"",
+          ""content"": ""\""eADQiWindows 10XVcnh\""; eadqiwindows; 10xvcnh""
+        }
+      ],
+      ""language"": ""en"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.1"",
+      ""name"": ""TextBox Class (System.Windows.Forms) | Microsoft Learn"",
+      ""url"": ""https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.textbox?view=windowsdesktop-7.0"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.textbox?view=windows..."",
+      ""snippet"": ""With the TextBox control, the user can enter text in an application. This control has additional functionality that is not found in the standard Windows text box control, including multiline editing and password character masking. Typically, a TextBox control is used to display, or accept as input, a single line of text."",
+      ""dateLastCrawled"": ""2022-11-27T07:07:00Z"",
+      ""searchTags"": [
+        {
+          ""name"": ""search.mshattr.devlang"",
+          ""content"": ""\""csharp vb fsharp cpp\""; csharp; vb; fsharp; cpp""
+        }
+      ],
+      ""language"": ""en"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.2"",
+      ""name"": ""textbox.page - Simple text box for writing"",
+      ""url"": ""https://www.textbox.page/"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://www.textbox.page"",
+      ""snippet"": ""Text area for typing notes and code. Built by Jamon Holmgren • GitHub Source • Infinite Red • Code Mode • Writing Mode • 0 lines, 0 words, 0 characters, 0 elapsed secondsJamon Holmgren • GitHub Source • Infinite Red • Code Mode • Writing Mode • 0 lines, 0 words, 0 characters"",
+      ""dateLastCrawled"": ""2022-11-28T05:07:00Z"",
+      ""language"": ""en"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.3"",
+      ""name"": ""TEXTBOX - Slam Poetry für Festivals, Museen und Messen | Willkommen"",
+      ""url"": ""https://textbox.biz/"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://textbox.biz"",
+      ""snippet"": ""TEXTBOX — »Eine phonozentrische Kultstätte!« (Süddeutsche Zeitung) Die TEXTBOX ist eine Erfindung des Dichters Bas Böttcher — eine Bühne der besonderen Art: kompakt, geheimnisvoll, originell und multimedial. Sie macht Shows und Performances auf kleinstem Raum und lauter Geräuschkulisse möglich. Per Kopfhörer erlebt man Slam Poeten, Beatbox, und Live-Literatur hautnah."",
+      ""dateLastCrawled"": ""2022-11-27T04:28:00Z"",
+      ""language"": ""de"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.4"",
+      ""name"": ""TextBox | Herbers Excel-Server"",
+      ""url"": ""https://www.herber.de/xldialoge/b_textbox.html"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://www.herber.de/xldialoge/b_textbox.html"",
+      ""snippet"": ""Ein Textfeld-Steuerelement (TextBox) ist ein Steuerelement, das meist zum Anzeigen von Informationen dient, die vom Benutzer eingegeben wurden. Es kann darüber hinaus eine Zusammenstellung von Daten anzeigen, z. B. eine Tabelle, einen Fragebogen, ein Arbeitsblatt oder das Ergebnis einer Berechnung. Wenn ein Textfeld-Steuerelement an eine Datenquelle gebunden ist, führt eine Änderung des Inhalts des Textfeld-Steuerelements dazu, dass der Wert in der gebundenen Datenquelle ebenfalls ..."",
+      ""dateLastCrawled"": ""2022-11-25T17:46:00Z"",
+      ""language"": ""de"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.5"",
+      ""name"": ""Textbox für moderne Korrespondenz - von Andrea Kern - textbox.ch"",
+      ""url"": ""https://www.textbox.ch/"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://www.textbox.ch"",
+      ""snippet"": ""Von der Text-Expertin. Kartenset bestellen. «Seit 18 Jahren leite ich Korrespondenzkurse – und werde immer wieder nach frischen Formulierungen gefragt. Als Antwort gibt es jetzt die textbox: Mit 158 Textbausteinen und 20 Schreibtipps, die verstaubte Vorlagen in moderne Texte verwandeln.»."",
+      ""dateLastCrawled"": ""2022-11-28T00:03:00Z"",
+      ""language"": ""de"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.6"",
+      ""contractualRules"": [
+        {
+          ""_type"": ""ContractualRules/LicenseAttribution"",
+          ""targetPropertyName"": ""snippet"",
+          ""targetPropertyIndex"": 6,
+          ""mustBeCloseToContent"": true,
+          ""license"": {
+            ""name"": ""CC-BY-SA"",
+            ""url"": ""http://creativecommons.org/licenses/by-sa/3.0/""
+          },
+          ""licenseNotice"": ""Text lizenziert unter CC-BY-SA""
+        }
+      ],
+      ""name"": ""Textfeld – Wikipedia"",
+      ""url"": ""https://de.wikipedia.org/wiki/Textfeld"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://de.wikipedia.org/wiki/Textfeld"",
+      ""snippet"": ""Ein Textfeld oder eine Textbox, vereinfachend auch ein Eingabefeld, ist ein Steuerelement einer grafischen Benutzeroberfläche, das Tastatureingaben oder Programmausgaben in Form einer Zeichenkette aufnehmen und darstellen kann. Es dient zur Eingabe im Sinne eines Computerprogramms. Eine Zusammenstellung mehrerer Textfelder und/oder anderer Steuerelemente wird auch als Eingabemaske oder Bildschirmmaske bezeichnet. Bezogen auf einen größeren Kontext kann sie als eigenständige/s Komponente ..."",
+      ""dateLastCrawled"": ""2022-11-24T21:15:00Z"",
+      ""language"": ""de"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.7"",
+      ""name"": ""TextBox | Roblox Creator Documentation"",
+      ""url"": ""https://create.roblox.com/docs/reference/engine/classes/TextBox"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://create.roblox.com/docs/reference/engine/classes/TextBox"",
+      ""snippet"": ""A TextBox allows the player to provide text input. It behaves similarly to a TextButton, except that a single TextBox can be put in focus by clicking, tapping or gamepad selection. While in focus, the player can use a keyboard to change the Text property."",
+      ""dateLastCrawled"": ""2022-11-27T02:55:00Z"",
+      ""language"": ""en"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.8"",
+      ""name"": ""Text Box in HTML – The Input Field HTML Tag - freeCodeCamp.org"",
+      ""url"": ""https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag"",
+      ""snippet"": ""Conclusion. To sum up, to create a text input field in HTML, you need at least: An <input> element, which typically goes inside a <form> element. To set the type attribute to have a value of text. This will create a single line text input field. Don't forget to add a name attribute."",
+      ""dateLastCrawled"": ""2022-11-25T19:15:00Z"",
+      ""language"": ""en"",
+      ""isNavigational"": false
+    },
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.9"",
+      ""name"": ""How to Create and Format a Text Box in Microsoft Word"",
+      ""url"": ""https://www.howtogeek.com/360034/how-to-create-and-format-a-text-box-in-microsoft-word/"",
+      ""isFamilyFriendly"": true,
+      ""displayUrl"": ""https://www.howtogeek.com/360034/how-to-create-and-format-a-text-box-in-microsoft-word"",
+      ""snippet"": ""Switch over to the “Insert” tab on Word’s Ribbon, and then click the “Text Box” button. In the dropdown menu, click the “Draw Text Box” command. Your pointer changes into a cross-hair symbol. Press and drag your mouse to draw your text box. After you create the new text box, you can begin typing your text right away."",
+      ""dateLastCrawled"": ""2022-11-29T17:10:00Z"",
+      ""language"": ""en"",
+      ""isNavigational"": false
+    }
+  ]
+}";Newtonsoft.Json.Linq.JToken+LineInfoAnnotation;Property;True;webPages
+"""entities"": {
+  ""value"": [
+    {
+      ""id"": ""https://api.bing.microsoft.com/api/v7/#Entities.0"",
+      ""contractualRules"": [
+        {
+          ""_type"": ""ContractualRules/LicenseAttribution"",
+          ""targetPropertyName"": ""description"",
+          ""mustBeCloseToContent"": true,
+          ""license"": {
+            ""name"": ""CC-BY-SA"",
+            ""url"": ""http://creativecommons.org/licenses/by-sa/3.0/""
+          },
+          ""licenseNotice"": ""Text lizenziert unter CC-BY-SA""
+        },
+        {
+          ""_type"": ""ContractualRules/LinkAttribution"",
+          ""targetPropertyName"": ""description"",
+          ""mustBeCloseToContent"": true,
+          ""text"": ""Wikipedia"",
+          ""url"": ""http://de.wikipedia.org/wiki/Textfeld""
+        }
+      ],
+      ""webSearchUrl"": ""https://www.bing.com/entityexplore?q=Textfeld&filters=sid:%222799dab9-bff5-8005-9be9-9c3967820cb4%22&elv=AXXfrEiqqD9r3GuelwApulpD5lKXVk0UABMMPGPB6Cr*cuIihaNrQEnr0N*H5kUkck3lzQjJWwDowBNKtAl8mQznf89ozHFxCkqyP*0CtYHJ"",
+      ""name"": ""Textfeld"",
+      ""description"": ""Ein Textfeld oder eine Textbox, vereinfachend auch ein Eingabefeld, ist ein Steuerelement einer grafischen Benutzeroberfläche, das Tastatureingaben oder Programmausgaben in Form einer Zeichenkette aufnehmen und darstellen kann. Es dient zur Eingabe im Sinne eines Computerprogramms. Eine Zusammenstellung mehrerer Textfelder und/oder anderer Steuerelemente wird auch als Eingabemaske oder Bildschirmmaske bezeichnet. Bezogen auf einen größeren Kontext kann sie als eigenständige/s Komponente/Element angesehen werden."",
+      ""entityPresentationInfo"": {
+        ""entityScenario"": ""DominantEntity"",
+        ""entityTypeHints"": [
+          ""Speciality""
+        ]
+      },
+      ""bingId"": ""2799dab9-bff5-8005-9be9-9c3967820cb4""
+    }
+  ]
+}";Newtonsoft.Json.Linq.JToken+LineInfoAnnotation;Property;True;entities
+"""relatedSearches"": {
+  ""id"": ""https://api.bing.microsoft.com/api/v7/#RelatedSearches"",
+  ""value"": [
+    {
+      ""text"": ""textboxen"",
+      ""displayText"": ""textboxen"",
+      ""webSearchUrl"": ""https://www.bing.com/search?q=textboxen""
+    },
+    {
+      ""text"": ""textbox textchanged"",
+      ""displayText"": ""textbox textchanged"",
+      ""webSearchUrl"": ""https://www.bing.com/search?q=textbox+textchanged""
+    },
+    {
+      ""text"": ""windows forms textbox"",
+      ""displayText"": ""windows forms textbox"",
+      ""webSearchUrl"": ""https://www.bing.com/search?q=windows+forms+textbox""
+    },
+    {
+      ""text"": ""textbox wpf"",
+      ""displayText"": ""textbox wpf"",
+      ""webSearchUrl"": ""https://www.bing.com/search?q=textbox+wpf""
+    },
+    {
+      ""text"": ""qt textbox"",
+      ""displayText"": ""qt textbox"",
+      ""webSearchUrl"": ""https://www.bing.com/search?q=qt+textbox""
+    },
+    {
+      ""text"": ""online text writing"",
+      ""displayText"": ""online text writing"",
+      ""webSearchUrl"": ""https://www.bing.com/search?q=online+text+writing""
+    },
+    {
+      ""text"": ""textbox latex"",
+      ""displayText"": ""textbox latex"",
+      ""webSearchUrl"": ""https://www.bing.com/search?q=textbox+latex""
+    },
+    {
+      ""text"": ""c# textbox text"",
+      ""displayText"": ""c# textbox text"",
+      ""webSearchUrl"": ""https://www.bing.com/search?q=c%23+textbox+text""
+    }
+  ]
+}";Newtonsoft.Json.Linq.JToken+LineInfoAnnotation;Property;True;relatedSearches
+"""rankingResponse"": {
+  ""mainline"": {
+    ""items"": [
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 0,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.0""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 1,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.1""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 2,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.2""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 3,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.3""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 4,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.4""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 5,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.5""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 6,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.6""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 7,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.7""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 8,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.8""
+        }
+      },
+      {
+        ""answerType"": ""WebPages"",
+        ""resultIndex"": 9,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#WebPages.9""
+        }
+      },
+      {
+        ""answerType"": ""RelatedSearches"",
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#RelatedSearches""
+        }
+      }
+    ]
+  },
+  ""sidebar"": {
+    ""items"": [
+      {
+        ""answerType"": ""Entities"",
+        ""resultIndex"": 0,
+        ""value"": {
+          ""id"": ""https://api.bing.microsoft.com/api/v7/#Entities.0""
+        }
+      }
+    ]
+  }
+}";Newtonsoft.Json.Linq.JToken+LineInfoAnnotation;Property;True;rankingResponse
